@@ -1,0 +1,37 @@
+.list{
+    display: flex;
+    justify-content: center;
+}
+
+.basket-list{
+    display: flex;
+    justify-content: center;
+}
+
+.item{
+    border: 1px solid gray;
+    margin-right: 20px;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+img{
+    width: 100px;
+}
+
+
+.red{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    margin-right: 150px;
+    background-color: red;
+    transform: rotate();
+}
+
+.green{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    margin-right: 150px;
+    background-color: green;
+}
